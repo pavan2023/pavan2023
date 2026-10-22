@@ -1,23 +1,42 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Pavan Chavan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan2023&label=Profile%20views&color=0e75b6&style=flat" alt="pavan2023" /> </p>
+### Cloud & DevOps Engineer | AWS | Linux | CI/CD | Full Stack Development
 
-- 🔭 I’m currently working on **CRM**
+I'm a software engineer working across cloud infrastructure, production operations, deployment automation, backend development, and frontend applications.
 
-- 🌱 I’m currently learning **MERN**
+I work on deploying and maintaining production systems, troubleshooting infrastructure and application issues, building APIs and internal tools, and automating business workflows.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pavan2023](https://github.com/pavan2023)
+- ☁️ **Cloud & Infrastructure:** AWS, EC2, AWS Amplify, CloudWatch, SNS, IAM, ACM, CloudFront
+- ⚙️ **DevOps & Operations:** GitLab CI/CD, GitLab Runner, Linux, Ubuntu, Bash, Nginx, PM2, SSH, Cron
+- 📊 **Monitoring & Reliability:** Sentry, UptimeRobot, Infrastructure Monitoring, Production Support, Incident Troubleshooting
+- 🔐 **Security & Networking:** DNS, SSL/TLS, HTTPS, Application Security, Role-Based Access Control (RBAC)
+- 💻 **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery
+- 🔧 **Backend & APIs:** Node.js, Express.js, REST APIs, API Integration, CRM Integration
+- 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL
+- 🔄 **Automation & Tools:** GoHighLevel, Workflow Automation, Git, GitHub, Figma, Chrome DevTools, FileZilla
+- 🤝 **Professional Skills:** Problem Solving, Teamwork, Communication, Customer Service, Customer Relationship Management (CRM)
 
-- 💬 Ask me about **React.js**
+### 🛠️ Technologies & Tools
 
-- 📫 How to reach me **pavanchavan2023@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pavan2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan2023" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,nginx,docker,git,github,gitlab" alt="Cloud and DevOps technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" alt="Frontend and backend technologies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan2023&show_icons=true&locale=en" alt="pavan2023" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,tailwind,bootstrap,figma" alt="Databases and development tools" />
+</p>
+
+### 🤝 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/pavan2023](https://linkedin.com/in/pavan2023)
+- **GitHub:** [github.com/pavan2023](https://github.com/pavan2023)
+- **Email:** [pavanchavan2023@gmail.com](mailto:pavanchavan2023@gmail.com)
+- **Business:** [Copper Pest Control](https://copperpestcontrol.in)
+
+---
+
+*Always learning, building, and improving production systems.*
